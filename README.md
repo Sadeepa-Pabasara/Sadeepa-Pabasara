@@ -5,7 +5,7 @@ I am an undergraduate Computer Science & Engineering student at the University o
 
 * 🔭 **I’m currently working on** sharpening my software development and problem solving skills.
 * 👯 **I’m looking to collaborate on** open source Flutter mobile applications or C++/Java software development projects.
-* 🌱 **I’m currently learning** advanced computer organization, Artificial Intelligence (AI), probability statistics.
+* 🌱 **I’m currently learning** advanced computer organization, Artificial Intelligence (AI), probability and statistics.
 * ⚡ **Fun fact:** I am slightly obsessed with anime, music and love diving into video games when I'm not writing code!
 
 ## 🌐 Socials:
