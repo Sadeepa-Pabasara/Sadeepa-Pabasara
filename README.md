@@ -17,4 +17,8 @@ I am an undergraduate Computer Science & Engineering student at the University o
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sadeepa-Pabasara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sadeepa-Pabasara&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sadeepa-Pabasara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+-------------------
+
+[![](https://komarev.com/ghpvc/?username=Sadeepa-Pabasara&label=Profile%20Views&color=blue&style=flat)](https://visitcount.itsvg.in)
